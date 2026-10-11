@@ -1,0 +1,19 @@
+GlucoTwin-AI/
+│
+├── docs/
+│   ├── Architecture_Diagram.pdf       # System components & data flow
+│   └── Project_Presentation.pdf       # 12-slide challenge presentation
+│
+├── src/
+│   ├── app.py                         # Streamlit dashboard / UI
+│   ├── main.py                        # FastAPI backend endpoints
+│   ├── model.py                       # ML pipeline & baseline logic
+│   └── data_generator.py              # Synthetic data generator
+│
+├── tests/
+│   └── test_pipeline.py               # Automated pipeline unit tests
+│
+├── README.md                          # Full submission document (all 12 items)
+├── LICENSE                            # MIT License file
+├── requirements.txt                   # Pinned dependency requirements
+└── .gitignore  
