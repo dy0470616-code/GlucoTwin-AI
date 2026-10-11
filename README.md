@@ -4,7 +4,8 @@ GlucoTwin AI: Digital Twin Architecture for Healthcare & Glucose Prediction
 ## 1. Team Details
 * **Lead Developer / Author:** Divyanshu Yadav
 * **Role:** AI/ML & Embedded Systems Developer
-* **Contact:** [Your Email / Contact Information]
+* **Contact:** [dy0470616@gmail.com
+  ]
 
 ---
 
