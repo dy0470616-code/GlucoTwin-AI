@@ -66,3 +66,17 @@ This project is licensed under the **MIT License**. See the `LICENSE` file in th
 MIT License
 Copyright (c) 2026 Divyanshu Yadav
 Permission is hereby granted, free of charge
+## 10. Architecture Diagram[span_10](start_span)[span_10](end_span)
+* 📄 **Architecture Diagram (PDF / PPT):** [`docs/Architecture_Diagram.pdf`](./docs/Architecture_Diagram.pdf)
+* **Overview:** Illustrates end-to-end component interaction and data flow: Edge Telemetry $\rightarrow$ FastAPI Backend $\rightarrow$ Digital Twin ML Prediction Engine $\rightarrow$ Streamlit Dashboard UI.
+
+---
+
+## 11. Project Presentation[span_11](start_span)[span_11](end_span)
+* 📊 **Project Presentation Deck (PDF / PPT):** [`docs/Project_Presentation.pdf`](./docs/Project_Presentation.pdf)
+* **Outline:** Comprehensive presentation covering the problem formulation, healthcare use case, architecture design, empirical evaluation results, and future scaling roadmap.
+
+---
+
+## 12. Public Accessibility Verification[span_12](start_span)[span_12](end_span)
+* ✅ All repository files, source code folders (`src/`, `tests/`), documentation deliverables (`docs/`), and external links are configured as **Public** and are fully accessible without requiring additional permissions or logins[span_13](start_span)[span_13](end_span).
