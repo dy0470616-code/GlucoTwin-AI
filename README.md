@@ -67,8 +67,6 @@ MIT License
 Copyright (c) 2026 Divyanshu Yadav
 Permission is hereby granted, free of charge
 ## 10. Architecture Diagram[span_10](start_span)[span_10](end_span)
-* 📄 **Architecture Diagram (PDF / PPT):** [`docs/Architecture_Diagram.pdf`](./docs/Architecture_Diagram.pdf)
-* **Overview:** Illustrates end-to-end component interaction and data flow: Edge Telemetry $\rightarrow$ FastAPI Backend $\rightarrow$ Digital Twin ML Prediction Engine $\rightarrow$ Streamlit Dashboard UI.
 
----
+
 
